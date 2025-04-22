@@ -1,4 +1,4 @@
-import UrlService from '../service/url.js';
+import UrlService from '../service/url';
 
 describe('URL Shortener Tests', () => {
   test('should shorten and retrieve a valid URL', () => {
